@@ -18,4 +18,4 @@ Utilizaram-se o modelo de Random Forest e LightGBM para realização da previsã
 
 ## Conversão de texto em voz
 - Texto transcrito: [agile_manifest_transcricao.txt](https://github.com/quintinomedeiros/ms_azure_ai_900/blob/main/agile_manifest_transcricao.txt)
-- [Texto em voz](https://github.com/quintinomedeiros/ms_azure_ai_900/blob/main/agile_manifesto.wav)
+- Texto em voz]: - Texto transcrito: [agile_manifest_transcricao.txt](https://github.com/quintinomedeiros/ms_azure_ai_900/blob/main/agile_manifest_transcricao.txt)
