@@ -11,3 +11,7 @@ Utilizaram-se o modelo de Random Forest e LightGBM para realização da previsã
 - Validação por divisão de validação de treinamento
 - Criação de um registro de modelo a partir do resultado do treinamento (Modelo / + Regustro / De uma saída de trabalho)
 - Criação de um ponto de extremidade (apresentou erro, impossibilitando conseguir os pontos de extremidade)
+
+## Reconhecimento de texto em imagens
+- Pasta "input" com a imagem utilizada
+- Pasta "output" com o texto transcrito
