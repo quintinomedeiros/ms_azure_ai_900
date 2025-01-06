@@ -13,5 +13,5 @@ Utilizaram-se o modelo de Random Forest e LightGBM para realização da previsã
 - Criação de um ponto de extremidade (apresentou erro, impossibilitando conseguir os pontos de extremidade)
 
 ## Reconhecimento de texto em imagens
-- Pasta "input" com a imagem utilizada
-- Pasta "output" com o texto transcrito
+- Imagem utilizada: agile manifest.jpg
+- Texto transcrito: agile_manifest_transcricao.txt
