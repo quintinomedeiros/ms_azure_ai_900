@@ -1,6 +1,6 @@
-## Microsoft Azure AI-900
+# Microsoft Azure AI-900
 
-# Criação de Modelo de regressão para previsão do aluguel de bicicletas
+## Criação de Modelo de regressão para previsão do aluguel de bicicletas
 OBS.: foi necesssário contornar a origem dos dados, pois os passos oferecidos pela instrutora incorriam em erro de carregamento
 
 Foi feito o envio do arquivo para o Azure
